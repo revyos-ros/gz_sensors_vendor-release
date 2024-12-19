@@ -2,6 +2,11 @@
 Changelog for package gz_sensors_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2024-11-12)
+------------------
+* Bump version to 8.2.1 (`#4 <https://github.com/gazebo-release/gz_sensors_vendor/issues/4>`_)
+* Contributors: Ian Chen
+
 0.0.4 (2024-07-15)
 ------------------
 * Update vendored package version to 8.2.0
