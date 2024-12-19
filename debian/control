@@ -1,0 +1,12 @@
+Source: ros-jazzy-gz-sensors-vendor
+Section: misc
+Priority: optional
+Maintainer: Addisu Z. Taddese <addisuzt@intrinsic.ai>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake-copyright <!nocheck>, ros-jazzy-ament-cmake-core, ros-jazzy-ament-cmake-lint-cmake <!nocheck>, ros-jazzy-ament-cmake-test, ros-jazzy-ament-cmake-vendor-package, ros-jazzy-ament-cmake-xmllint <!nocheck>, ros-jazzy-gz-cmake-vendor, ros-jazzy-gz-common-vendor, ros-jazzy-gz-math-vendor, ros-jazzy-gz-msgs-vendor, ros-jazzy-gz-rendering-vendor, ros-jazzy-gz-tools-vendor, ros-jazzy-gz-transport-vendor, ros-jazzy-sdformat-vendor, xvfb <!nocheck>, ros-jazzy-ros-workspace
+Homepage: https://github.com/gazebosim/gz-sensors
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-gz-sensors-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-gz-cmake-vendor, ros-jazzy-gz-common-vendor, ros-jazzy-gz-math-vendor, ros-jazzy-gz-msgs-vendor, ros-jazzy-gz-rendering-vendor, ros-jazzy-gz-tools-vendor, ros-jazzy-gz-transport-vendor, ros-jazzy-sdformat-vendor, ros-jazzy-ros-workspace
+Description: Vendor package for: gz-sensors8 8.2.1 Gazebo Sensors : Sensor models for simulation

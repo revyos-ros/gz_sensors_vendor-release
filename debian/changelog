@@ -1,0 +1,33 @@
+ros-jazzy-gz-sensors-vendor (0.0.5-1bookworm) bookworm; urgency=high
+
+  * Bump version to 8.2.1 (#4 <https://github.com/gazebo-release/gz_sensors_vendor/issues/4>)
+  * Contributors: Ian Chen
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Mon, 11 Nov 2024 16:00:00 -0000
+
+ros-jazzy-gz-sensors-vendor (0.0.4-1bookworm) bookworm; urgency=high
+
+  * Update vendored package version to 8.2.0
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Sun, 14 Jul 2024 16:00:00 -0000
+
+ros-jazzy-gz-sensors-vendor (0.0.3-1bookworm) bookworm; urgency=high
+
+  * Use an alias target for root library
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Wed, 24 Apr 2024 16:00:00 -0000
+
+ros-jazzy-gz-sensors-vendor (0.0.2-1bookworm) bookworm; urgency=high
+
+  * Add support for the <pkg>::<pkg> and <pkg>::all targets, fix sourcing of dsv files
+  * Require calling find_package on the underlying package
+  * Fix linter (#1 <https://github.com/gazebo-release/gz_sensors_vendor/issues/1>)
+  * Fix url
+  * Initial import
+  * Contributors: Addisu Z. Taddese
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Wed, 10 Apr 2024 16:00:00 -0000
+
+
