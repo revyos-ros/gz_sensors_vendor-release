@@ -10,9 +10,9 @@
     To avoid any confusion with the version of the vendor package, the major
     version here will always be 0.
   -->
-  <version>0.0.4</version>
+  <version>0.0.5</version>
   <description>
-    Vendor package for: gz-sensors8 8.2.0
+    Vendor package for: gz-sensors8 8.2.1
 
     Gazebo Sensors : Sensor models for simulation
   </description>
