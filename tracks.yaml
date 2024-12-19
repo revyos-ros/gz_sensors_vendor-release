@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/gz_sensors_vendor-release.git
 tracks:
   jazzy:
     actions:
