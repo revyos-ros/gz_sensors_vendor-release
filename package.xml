@@ -10,9 +10,9 @@
     To avoid any confusion with the version of the vendor package, the major
     version here will always be 0.
   -->
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>
-    Vendor package for: gz-sensors8 8.2.1
+    Vendor package for: gz-sensors8 8.2.2
 
     Gazebo Sensors : Sensor models for simulation
   </description>
@@ -24,6 +24,7 @@
   <buildtool_depend>ament_cmake_test</buildtool_depend>
   <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
 
+  <buildtool_depend>cmake</buildtool_depend>
   <test_depend>xvfb</test_depend>
   <depend>gz_cmake_vendor</depend>
   <depend>gz_common_vendor</depend>
